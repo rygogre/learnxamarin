@@ -1,0 +1,12 @@
+D3.MainActivity, D3;md5bf9a9310f8325d5dd6b88af330cbc29e.MainActivity
+D3.MainActivity, D3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bf9a9310f8325d5dd6b88af330cbc29e.MainActivity
+D3.MainActivity;md5bf9a9310f8325d5dd6b88af330cbc29e.MainActivity
+d3.MainActivity;md5bf9a9310f8325d5dd6b88af330cbc29e.MainActivity
+D3.Resources.ViewHolder, D3;md5d2d8f6eb7be3ce26a63352a3cc914adc.ViewHolder
+D3.Resources.ViewHolder, D3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d2d8f6eb7be3ce26a63352a3cc914adc.ViewHolder
+D3.Resources.ViewHolder;md5d2d8f6eb7be3ce26a63352a3cc914adc.ViewHolder
+d3.resources.ViewHolder;md5d2d8f6eb7be3ce26a63352a3cc914adc.ViewHolder
+D3.Resources.ListViewAdapter, D3;md5d2d8f6eb7be3ce26a63352a3cc914adc.ListViewAdapter
+D3.Resources.ListViewAdapter, D3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d2d8f6eb7be3ce26a63352a3cc914adc.ListViewAdapter
+D3.Resources.ListViewAdapter;md5d2d8f6eb7be3ce26a63352a3cc914adc.ListViewAdapter
+d3.resources.ListViewAdapter;md5d2d8f6eb7be3ce26a63352a3cc914adc.ListViewAdapter
